@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace DMEjemploMVVM.Models
 {
-    internal class Libro
+    public class Libro
     {
         public string Titulo { get; set; }
         public string Autor { get; set; }
