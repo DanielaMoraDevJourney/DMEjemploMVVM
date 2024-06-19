@@ -20,6 +20,8 @@ namespace DMEjemploMVVM.ViewModels
             
             }
         }
+        public List<Libro> Libros { get; set; }
+
         public event PropertyChangedEventHandler? PropertyChanged;
 
         protected virtual void OnPropertyChanged(string propertyName)

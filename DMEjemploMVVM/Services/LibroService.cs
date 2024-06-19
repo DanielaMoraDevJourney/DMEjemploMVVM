@@ -14,28 +14,28 @@ namespace DMEjemploMVVM.Services
             return new List<Libro>{
             new Libro
             {
-                Titulo = "libro1",
-                Autor = "autor 1"
+                Titulo = "Libro1",
+                Autor = "Autor 1"
             },
             new Libro
             {
-                Titulo = "libro2",
-                Autor = "autor 2"
+                Titulo = "Libro2",
+                Autor = "Autor 2"
             },
             new Libro
             {
-                Titulo = "libro3",
-                Autor = "autor 3"
+                Titulo = "Libro3",
+                Autor = "Autor 3"
             },
             new Libro
             {
-                Titulo = "libro4",
-                Autor = "autor 4"
+                Titulo = "Libro4",
+                Autor = "Autor 4"
             },
             new Libro
             {
-                Titulo = "libro5",
-                Autor = "autor 5"
+                Titulo = "Libro5",
+                Autor = "Autor 5"
             }
             };
         }
